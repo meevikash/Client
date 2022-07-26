@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Paulina.O2</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/lato_bold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/lato_regular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/lato_light</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_me">Hi, I’m Vikash 👋
+Hi, my name’s Vikash Meghwal and I’m a Second Year Undergraduate pursuing B.S. in Chemistry from Indian Institute of Technology, Kanpur (2019 - 2023)… I am skilled in: DNA and Paintings</string>
+
+</resources>

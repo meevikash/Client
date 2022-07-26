@@ -1,0 +1,2 @@
+rootProject.name = "Paulina.O2"
+include ':app'
